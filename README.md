@@ -11,7 +11,6 @@
 </details>
 
 
-
 ## About This Project
 
 This project is designed to analyze and measure the historical performance of various stocks, focusing on key metrics such as percent change and adjusted close prices. By utilizing real-time stock data and adjusting for stock splits, the project allows for in-depth analysis and visualization of stock trends over time. The data is processed and visualized to provide insights into stock performance, helping users understand fluctuations and trends for companies like Amazon, Google, Tesla, and more.
@@ -35,10 +34,27 @@ pip install hvplot pandas requests matplotlib numpy panel dash
 
 ## Visualization Examples
 
-### Contributors:
+Below are two visualizations that demonstrate some of the key insights from our analysis:
 
-<a href="https://github.com/srourdanny/stock_analysis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=srourdanny/stock_analysis&limit=6" alt="Contributors" />
-</a>
+### 1. Cumulative Percent Change of All Stocks
 
-<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+![Cumulative Percent Change](assets/cumulative.png)
+
+This graph shows the cumulative percent change for all stocks over the selected period.
+
+### 2. Average Daily Percent Change of All Stocks
+
+![Average Daily Percent Change](assets/daily.png)
+
+This graph visualizes the average daily percent change for each stock.
+
+### 3. Comparison Results Table
+
+Here is a comparison table of key metrics for the stocks analyzed:
+
+![Comparison Results Table](assets/compare.png)
+
+## Contributors
+
+Check out the list of contributors to this project [here](https://github.com/srourdanny/stock_analysis/graphs/contributors).
+
