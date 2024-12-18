@@ -25,6 +25,11 @@ This project is designed to analyze and measure the historical performance of va
 - `panel` For creating interactive dashboards and visualizations.
 - `dash` For building web-based interactive visualizations and dashboards.
 
+## API Used
+
+- **Alpha Vantage API**: We used the [Alpha Vantage API](https://www.alphavantage.co/documentation/) to retrieve historical stock data for analysis.
+
+
 
 To install:
 
