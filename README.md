@@ -39,25 +39,28 @@ pip install hvplot pandas requests matplotlib numpy panel dash
 
 ## Visualization Examples
 
-Below are two visualizations that demonstrate some of the key insights from our analysis:
+Here are some visualizations and insights from our stock analysis:
 
 ### 1. Cumulative Percent Change of All Stocks
 
-![Cumulative Percent Change](assets/cumulative.png)
+<img src="assets/cumulative.png" alt="Cumulative Percent Change" width="500">
 
-This graph shows the cumulative percent change for all stocks over the selected period.
+This graph illustrates the cumulative percent change of all analyzed stocks over the selected time period.
 
 ### 2. Average Daily Percent Change of All Stocks
 
-![Average Daily Percent Change](assets/daily.png)
+<img src="assets/daily.png" alt="Average Daily Percent Change" width="500">
 
-This graph visualizes the average daily percent change for each stock.
+This visualization highlights the average daily percent change for each stock.
 
 ### 3. Comparison Results Table
 
-Here is a comparison table of key metrics for the stocks analyzed:
+<img src="assets/compare.png" alt="Comparison Results Table" width="500">
 
-![Comparison Results Table](assets/compare.png)
+This table summarizes key metrics, enabling a comparison of performance across all stocks.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 
 ## Contributors
 
