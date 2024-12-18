@@ -5,6 +5,7 @@
   
   - [About This Project](#about-this-project)
   - [Libraries Used](#libraries-used)
+  - [API Used](#api-used)
   - [Visualization Examples](#visualization-examples)
   - [Contributors](#contributors)
 
