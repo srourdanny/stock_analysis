@@ -81,3 +81,10 @@ Here is a comparison table of key metrics for the stocks analyzed:
 
 Check out the list of contributors to this project [here](https://github.com/srourdanny/stock_analysis/graphs/contributors).
 
+- Danny Srour
+- Daniel Lui
+- Ryan Brown
+- Cathy Schassberger
+- Austin Cappetta
+- Caleb Kelson
+
