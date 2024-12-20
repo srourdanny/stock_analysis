@@ -6,6 +6,7 @@
   - [About This Project](#about-this-project)
   - [Libraries Used](#libraries-used)
   - [API Used](#api-used)
+  - [Stock Splits and Data Adjustments](#stock-splits-and-data-adjustments)
   - [Visualization Examples](#visualization-examples)
   - [Contributors](#contributors)
 
@@ -37,10 +38,26 @@ pip install hvplot pandas requests matplotlib numpy panel dash
 
 - **Alpha Vantage API**: We used the [Alpha Vantage API](https://www.alphavantage.co/documentation/) to retrieve historical stock data for analysis.
 
+## Stock Splits and Data Adjustments
+
+When analyzing stock data, we noticed anomalies such as sharp drop-offs in certain graphs. These discrepancies were due to stock splits, where companies increase the number of shares while reducing the price proportionally. To ensure accurate visualizations, we developed a function to adjust for these splits, resulting in split-adjusted prices for consistency in analysis.
+
+Below are the graphs illustrating the stock prices before and after applying our stock split adjustments:
 
 ## Visualization Examples
 
 Below are two visualizations that demonstrate some of the key insights from our analysis:
+
+### Before Adjustments
+
+![Before Adjustments](assets/before.png)
+
+### After Adjustments
+
+![After Adjustments](assets/after.png)
+
+With these adjustments in place, we generated the following visualizations to highlight key trends and insights.
+
 
 ### 1. Cumulative Percent Change of All Stocks
 
