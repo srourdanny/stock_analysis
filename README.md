@@ -44,7 +44,6 @@ When analyzing stock data, we noticed anomalies such as sharp drop-offs in certa
 
 Below are the graphs illustrating the stock prices before and after applying our stock split adjustments:
 
-## Visualization Examples
 
 Below are two visualizations that demonstrate some of the key insights from our analysis:
 
@@ -58,6 +57,7 @@ Below are two visualizations that demonstrate some of the key insights from our 
 
 With these adjustments in place, we generated the following visualizations to highlight key trends and insights.
 
+## Visualization Examples
 
 ### 1. Cumulative Percent Change of All Stocks
 
